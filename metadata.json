@@ -1,0 +1,12 @@
+{
+    "name": "SHRILTEST",
+    "symbol": "SHRILT",
+    "description": "Only Possible On Solana",
+    "image": "",
+    "attributes": [
+        {
+            "trait_type": "Item",
+            "value": "Developer Portal"
+        }
+    ]
+}
