@@ -2,7 +2,7 @@
     "name": "SHRILTEST",
     "symbol": "SHRILT",
     "description": "Only Possible On Solana",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/n1kroS/shriltest/refs/heads/main/image.png",
     "attributes": [
         {
             "trait_type": "Item",
